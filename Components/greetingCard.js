@@ -13,9 +13,6 @@ function GreetingCard() {
 
 const styles = StyleSheet.create({
   container: {
-    width:"80%",
-
-    marginTop: "10px",
     backgroundColor: "#c4a4ea",
     padding: 10,
     borderRadius: 15,
@@ -24,6 +21,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
     fontWeight: "bold",
     marginBottom: "10px",
+    marginTop: 15,
   },
   paragraph: {
     fontSize: 16,

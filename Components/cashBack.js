@@ -12,15 +12,13 @@ function CashBack() {
 
 const styles = StyleSheet.create({
   container: {
-    width: "80%",
-
     backgroundColor: "#000000",
     padding: 20,
     marginTop: 10,
-    borderRadius: 20,
+    borderRadius: 15,
   },
-  heading: { fontSize: 20, color: "#ccaff1" },
-  subheading: { fontSize: 16, color: "#d5c1ec", marginTop: 20 },
+  heading: { fontSize: 18, color: "#ccaff1" },
+  subheading: { fontSize: 16, color: "#d5c1ec", marginTop: 17 },
   text: { fontSize: 14, color: "#73648a", marginTop: 5 },
 });
 
